@@ -1,0 +1,3 @@
+#Where my bash interpreter located in?
+which bash
+#output is: /usr/bin/bash
