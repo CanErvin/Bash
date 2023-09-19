@@ -1,0 +1,18 @@
+1: Introduction
+2: Hello World
+3: Variables
+4: Math Funct.
+5: If Statements
+6: Exit codes
+7: While Loops
+8: Universal Update Script
+9: For Loops
+10 Fileszstem Locations for Scripts
+11:Data Streams
+12:Functions
+13:Case Statements
+14:Scheduling Jobs 1
+15:Scheduling Jobs 2
+16:Arguments
+17:Creating a Backup Script
+18:Closing
