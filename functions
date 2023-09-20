@@ -1,0 +1,18 @@
+#!/usr/bin/bash
+#Functions can actually consolidate the commands that are in your scripts.
+
+check_exit_status() {
+
+if [$? -ne 0]
+then
+  echo "An error occurred, please check the $errorlog file."
+fi
+}
+
+check_exit_status
+
+
+
+
+
+
