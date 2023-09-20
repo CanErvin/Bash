@@ -1,0 +1,10 @@
+#!/usr/bin/bash
+#Where to Store Scripts?
+#FHS file exists in order to clarify what the purpose is for the each of typical directories that are found most
+#or all distributions of Linux. For our purposes we are mainly concerned with where to run scripts from.
+
+sudo mv update.sh /usr/local/bin/update && sudo chown root:root /usr/local/bin/update
+ls -l /usr/local/bin
+#Now you can run your script by just typing its name.
+#which update
+
