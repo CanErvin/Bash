@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+#To create a hidden file use em dash
+touch — -samplefile
+#Here is how to read dashed filename in Linux
+cat < -samplefile
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
