@@ -1,0 +1,7 @@
+#Spaces in file name
+#To use a filename with spaces in it, you can wrap it in quotes like this:
+cat "file name with spaces"
+#You may also escape every space with backslash but it is more work and more confusing than the previous method:
+cat file\ name\ with\ spaces
+#Basically, you put a \ before every space in the filename.
+#aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
