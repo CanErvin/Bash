@@ -1,0 +1,12 @@
+#The password for the next level is stored in the only human-readable file in the inhere directory. 
+#Tip: if your terminal is messed up, try the “reset” command.
+#In order to fix this, you'll have to prevent the dashes from being interpreted as flags.
+#In this case, you'll enter cd -- -\ folder1\ -/ OR cd -- "- folder1 -"
+#To find human-readable files (text files) in a Linux directory, you can use the file command along with the find command. 
+#The file command is used to determine the type of a file.
+
+find /path/to/directory -type f -exec file {} \; | grep -i text
+#Replace /path/to/directory with the actual path to the directory where you want to search for human-readable files.
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
+
